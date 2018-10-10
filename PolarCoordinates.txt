@@ -1,0 +1,13 @@
+Polar coordinates are an alternative way of representing Cartesian coordinates or Complex Numbers.
+
+A complex number 
+   X + IJ
+is completely determined by its real part X and imaginary part I .
+Here, I is the imaginary unit.
+
+Solutions:-
+
+import cmath
+a = complex((input()))
+print(abs(complex(a)))
+print(cmath.phase(a))
