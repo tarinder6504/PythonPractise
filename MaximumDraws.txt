@@ -5,3 +5,5 @@ The first line contains the number of test cases T.
 Next T lines contains an integer N which indicates the total pairs of socks present in the drawer.
 
 Solutions:-
+
+[print(int(input()) + 1) for i in range(int(input()))]
